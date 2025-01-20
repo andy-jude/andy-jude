@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi There! 👋
+
+My name is Andy, and I am a senior studying IT at the University of Minnesota with minors in Computer Science, Management, and Entrepreneurship.  
+
+- 🔭 I’m currently working on ways to help improve efficiency at the University of Minnesota IT Helpdesk.
+- 🌱 I’m currently learning about how to manage IT Networks.
+- ⚡ Fun fact: I have almost visited every state in the United States
+- 😄 Pronouns: He/Him/His
+
 
 <!--
 **andy-jude/andy-jude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
